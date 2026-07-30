@@ -1,0 +1,81 @@
+{
+  "users": {
+    "w17c5U17xf56z": 8,
+    "Player1": 8,
+    "Player2": 8,
+    "Player3": 8,
+    "Player4": 8
+  },
+  "restrictedstands": {
+    "1000343": 8,
+    "666666": 8,
+    "202024": 8,
+    "12430": 8,
+    "5211": 8,
+    "4500": 8,
+    "1000": 8,
+    "999": 8,
+    "990": 8,
+    "900": 8,
+    "10": 8,
+    "1000335": 7,
+    "400691": 7,
+    "100034": 7,
+    "80085": 7,
+    "10001": 7,
+    "10000": 7,
+    "6920": 7,
+    "2014": 7,
+    "1515": 7,
+    "283": 7,
+    "244": 7,
+    "101": 7,
+    "100": 7,
+    "85": 7,
+    "325425": 5,
+    "325422": 5,
+    "13371": 5,
+    "3636": 5,
+    "3011": 5,
+    "1541": 5,
+    "1540": 5,
+    "1001": 5,
+    "666": 5,
+    "173": 5,
+    "99": 5,
+    "67": 5,
+    "6733": 2
+  },
+  "permissions": {
+    "2": {
+      "givestand": true,
+      "giveitem": true,
+      "pay": true,
+      "trade": false
+    },
+    "3": {
+      "givestand": false,
+      "giveitem": true,
+      "pay": true,
+      "trade": true
+    },
+    "5": {
+      "givestand": true,
+      "giveitem": true,
+      "pay": true,
+      "trade": true
+    },
+    "7": {
+      "givestand": true,
+      "giveitem": true,
+      "pay": true,
+      "trade": true
+    },
+    "8": {
+      "givestand": true,
+      "giveitem": true,
+      "pay": true,
+      "trade": true
+    }
+  }
+}
