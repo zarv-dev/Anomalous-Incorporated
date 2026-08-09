@@ -1,8 +1,7 @@
 {
   "banned_groups": {
     "12098759": "Straight to the point, you're in the punchey pals group. A group owned by an user who has taken part in the harm of others and distribution of illegal material. Please leave this group to continue playing.",
-    "73315316": "You've been kicked because you're a part of a group asssociated with Kaiba.",
-    "34418048": "You've been kicked because you're a part of Zhy's studio which is associated with a certain someone. Please leave if you'd like to play the game.",
+    "73315316": "You've been kicked because you're a part of a group asssociated with Kaiba, ZesHoodStaff. Please leave if you'd like to play this game. "
   },
   "banned_users": {
     "1536552360": "no",
@@ -55,9 +54,9 @@
     "4877896820": "no",
     "2770027663": "no",
     "271030610": "no",
-    "": "no",
-    "": "no",
-    "": "no",
-    "": "no"
+    "1": "no",
+    "23": "no",
+    "4": "no",
+    "55": "no"
   }
 }
